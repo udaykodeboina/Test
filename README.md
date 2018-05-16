@@ -43,8 +43,8 @@ The vertical bar (also referred to as pipe) and space are also sometimes used.
 [1]:113 In a comma-separated values (CSV) file the data items are separated using commas as a delimiter,
  while in a tab-separated values (TSV) file, the data items are separated using tabs as a delimiter.
 
-* For example, the following fields in each record are delimited by comma
+* For example, the following fields in each record are delimited by commas
 
    Ex: "Date","Pupil","Grade"
-  > for more information [delimiters](:https://en.wikipedia.org/wiki/Delimiter-separated_values)
+  > for more information [delimiters](https://en.wikipedia.org/wiki/Delimiter-separated_values)
  
