@@ -10,7 +10,7 @@ from Uday kiran
   >HTML is mainly used to direct how a browser should display some website elements like images, links, tables and things like that. 
  You can take HTML as a webpage layout and presentation description language.
  XML is mainly used to convey text information, and it has such things as tags to indicate the meaning of a piece of information.
-  >for more information check [Markup languages](https://www.lifewire.com/what-are-markup-languages-3468655)
+  > for more information check [Markup languages](https://www.lifewire.com/what-are-markup-languages-3468655)
 #
 
 # text file:
