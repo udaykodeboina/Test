@@ -30,6 +30,28 @@ such as Microsoft Excel or OpenOffice Calc.
 
 #
 
+
+# different types of Files
+* JPEG (or JPG) - Joint Photographic Experts Group. ...
+* PNG – Portable Network Graphics. ...
+* GIF – Graphics Interchange Format. ...
+* TIF – Tagged Image File. ...
+* PSD – Photoshop Document. ...
+* PDF – Portable Document Format. ...
+* EPS – Encapsulated Postscript. ...
+* AI – Adobe Illustrator Document.
+  >for more information check [file types](https://blog.hubspot.com/insiders/different-types-of-image-files)
+
+# different file formats
+* Word documents (.doc)
+* Web text pages (.htm or .html)
+* Web page images (.gif and .jpg)
+* Adobe Postcript files (.ps)
+* Adobe Acrobat files (.pdf)
+* Executable programs (.exe)
+* Multimedia files (.mp3 and others)
+  >for more information check [File formats](https://whatis.techtarget.com/definition/file-format)
+
 # delimiters:
 * A delimiter is a sequence of one or more characters used to specify the boundary between separate, 
 independent regions in plain text or other data streams.
