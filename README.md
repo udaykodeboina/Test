@@ -71,4 +71,25 @@ The vertical bar (also referred to as pipe) and space are also sometimes used.
 
    Ex: "Date","Pupil","Grade"
   > for more information [delimiters](https://en.wikipedia.org/wiki/Delimiter-separated_values)
+  #
+
+# Dataframes :
+* dataframe is a data structure used to represent tabular data
+* dataframes are used to store and to perform operations and manipulations on that data
+   >for more information check [dataframes](https://github.com/mobileink/data.frame/wiki/What-is-a-Data-Frame%3F)
+
+#
+
+# Dataframes in python
+## python pandas :
+* Pandas is an open-source, BSD-licensed Python library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
+* Python with Pandas is used in a wide range of fields including academic and commercial domains including finance, economics, Statistics, analytics, etc.
+  >for more information check [pandas](https://www.tutorialspoint.com/python_pandas/index.htm)
+
+* The below links provides the clear view about how to perform operations on data (or) how to analysis the data      by using python pandas
+   >https://www.youtube.com/watch?v=CmorAWRsCAw&list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy
+   
+   >https://www.youtube.com/watch?v=F6kmIpWWEdU&list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy&index=1
+
+   >https://www.youtube.com/watch?v=3k0HbcUGErE&index=3&list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy
  
